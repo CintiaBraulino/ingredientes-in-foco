@@ -13,7 +13,7 @@ e facilitar a vida de quem tem alergias alimentares, em especial as mais graves.
 Atores | Descrição
 :--- | :--- 
 Cliente | <p>O cliente pode visualizar, cadastrar ou editar alimentos na comunidade.</p>
-Administrador |<p>O administrador poderá visualizar e criar postagens na comunidade, além de poder editar ou excluir postagens dos usuários (cliente, fornecedor). O administrador poderá banir usuários que não estejam comprindo com as normais da comunidade.</p>
+Administrador |<p>O administrador poderá visualizar e criar postagens na comunidade, além de poder editar ou excluir (deletar) postagens dos usuários (cliente, fornecedor). O administrador poderá banir usuários que não estejam comprindo com as normais da comunidade.</p>
 Fornecedor |<p>Os fornecedores poderão visualizar, cadastrar e editar alimentos que fornecem.</p>
 
 <br/>
